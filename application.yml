@@ -6,12 +6,6 @@ accountNumber.serviceId: SPARROW-REVIEWS
 telephoneNumberPattern: 12345
 telephoneNumber.serviceId: SPARROW-RECOMMENDATIONS
 
-genreMlId: 1
-genreMlId.serviceId: SPARROW-CATALOG
-genreMlId: 2
-genreMlId.serviceId: SPARROW-WEB
-
-
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
